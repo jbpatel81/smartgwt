@@ -1,0 +1,2 @@
+serviceClass: com.ey.devopstest.client.GreetingService
+path: BFA2B84C984E73B277962CF747FAA727.gwt.rpc

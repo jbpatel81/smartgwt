@@ -1,0 +1,3 @@
+# Module consumerbank
+# RPC service class, partial path of RPC policy file
+com.ey.devopstest.client.GreetingService, BFA2B84C984E73B277962CF747FAA727.gwt.rpc
